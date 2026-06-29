@@ -1,1 +1,37 @@
-{"skills":0,"notes":0}
+{
+  "updated_by": "Aside Mac brain export",
+  "updated_at_local": "2026-06-29 16:39:25 CDT",
+  "bridge_repo": "github.com/bib1611/cursor-mac-brain",
+  "source_summary": {
+    "writing_brain": "Google Drive / Masterclass-Archive / Writing-Brain, downloaded via authenticated Drive zip and overlaid with freshest local WRITING-BRAIN.md",
+    "aside_user_skills": "Aside user skills only, no Aside memory",
+    "obsidian_vault_markdown": "Active Obsidian vault markdown only",
+    "ops_mirror": "Dead Hidden ops writing profiles plus TEAM_CONTEXT.md",
+    "ed_latimore_corpus": "Local downloaded Ed Latimore corpus mirror"
+  },
+  "counts": {
+    "skills_files": 14,
+    "knowledge_markdown_files": 1146,
+    "writing_brain_files": 108,
+    "writing_brain_markdown_files": 65,
+    "dakota_swipe_files": 76,
+    "dakota_swipe_markdown_files": 73,
+    "ed_latimore_swipe_files": 250,
+    "ed_latimore_swipe_markdown_files": 243,
+    "ops_mirror_files": 4,
+    "ai_memory_json_files": 0
+  },
+  "exclusions": [
+    ".env files",
+    "Aside memory",
+    "substack-export",
+    "twitter-archive",
+    "private keys",
+    "Obsidian non-markdown attachments/config"
+  ],
+  "notes": [
+    "Google Drive file-provider placeholders timed out locally, so the full Writing-Brain tree was downloaded as a Drive zip through the authenticated browser.",
+    "The Drive zip had WRITING-BRAIN.md at 524 lines; the fresher local 550-line WRITING-BRAIN.md was overlaid after extraction.",
+    "No standalone ai-memory/*.json source directory was found in common locations if count is 0."
+  ]
+}

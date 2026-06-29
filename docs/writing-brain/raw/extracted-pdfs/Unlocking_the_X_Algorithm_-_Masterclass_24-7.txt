@@ -1,0 +1,78 @@
+                  Unlocking the X Algorithm
+
+Most people think the X algorithm is mysterious, biased, or manually controlled. It is much
+simpler and much more mechanical than people imagine.
+
+Earlier, X released its recommendation code publicly, not as a marketing gesture, but to
+make it easier for people to understand how the system works. When you read that code,
+one thing becomes obvious quickly.
+
+Every time you open the For You feed, X runs a fast pipeline whose only job is to answer one
+question: which posts are you most likely to engage with right now?
+
+Not which posts are best, not which posts are true, and not which posts matter. Just which
+ones you are most likely to interact with.
+
+The process starts with you. Before picking any posts, X pulls your recent behavior. It looks
+at what you liked, what you replied to, what you watched, what you ignored, who you follow,
+and who you muted. This becomes a live behavioral profile that represents your current
+interests and habits. The system uses a moving snapshot of how you have behaved in the
+very recent past.
+
+
+
+
+Then the system pulls posts from two main sources.
+   1. The first is in-network content, which simply means recent posts from accounts you
+      already follow. This layer is familiar and predictable, and it gives the feed a sense of
+      continuity.
+
+   2. The second source is out-of-network content, which comes from the entire
+      platform. Here, X uses a machine learning retrieval system that finds posts engaged
+      with by people who behave similarly to you.
+
+Both you and every post are turned into mathematical vectors, and the system retrieves the
+closest matches by similarity.
+
+At this stage, X may have thousands of candidate posts. Most of them never make it to
+scoring. Duplicates are removed, old posts are removed, your own posts are removed,
+blocked authors are removed, muted keywords are removed, and posts you have already
+seen are removed. By the time ranking begins, the feed has already been heavily cleaned
+and narrowed down.
+Now comes the core of the system. A single large transformer model scores every
+remaining post. It does not predict whether a post is relevant in some abstract sense. It
+predicts specific actions. It estimates the probability that you will like the post, reply to it,
+repost it, click it, watch the video, dwell on it, follow the author, mute them, block them, or
+report them. Each of these predicted actions is multiplied by a weight. Positive actions
+push the post up, while negative actions push it down. All of these weighted predictions are
+added together into one final number, and that number determines where the post appears
+in your feed.
+
+One detail matters more than most people realize. Each post is scored in isolation. Posts
+are not compared to each other. They are compared only to you. This means your feed is
+not ranked by what is popular or trending. It is ranked by what the model thinks you
+personally are most likely to react to.
+
+Two people can open the same app at the same time and see completely different worlds
+because the ranking is individualized at the scoring level.
+
+Another design choice explains much about how modern feeds behave. X no longer relies
+on hand-written relevance rules. There are no humans deciding to boost politics, penalize
+links, or prefer long posts. Almost all relevance is learned from engagement patterns. If a
+type of content reliably produces clicks, replies, or dwell time, the model learns to promote
+it. If a type of content leads to blocks, mutes, or reports, the model learns to suppress it.
+
+The system does not optimize for truth, wisdom, nor social good. It optimizes for expected
+engagement. Over time, it learns which topics keep you scrolling, which emotions hold
+your attention, which conflicts you engage with, and which styles you ignore. The result is
+not a neutral feed but a personalized reality, shaped quietly by your own past behavior.
+
+That is the X algorithm in simple terms: a machine that studies your past actions, predicts
+your future reactions, and builds your feed to maximize the chance that you interact again.
+
+
+
+Notes:
+
+   1. GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X
+

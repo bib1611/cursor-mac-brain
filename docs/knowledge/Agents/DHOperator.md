@@ -40,3 +40,5 @@ _Stub auto-created. Backfill context as it accrues._
 - [[2026-06-27]] - comment DEA-58: IONOS billing-failed scrape
 - [[2026-06-28]] - dispatch DEA-41: failed-payment recovery sweep
 - [[2026-06-28]] - comment DEA-58: IONOS billing-failed scrape
+- [[2026-06-29]] - dispatch DEA-41: failed-payment recovery sweep
+- [[2026-06-29]] - comment DEA-58: IONOS billing-failed scrape

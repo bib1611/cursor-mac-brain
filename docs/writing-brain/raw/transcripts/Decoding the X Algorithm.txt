@@ -1,0 +1,345 @@
+Alright, welcome everyone to today's presentation on recording the X algorithm.
+I'm going to be focusing on, there's a lot of stuff in the slide, and what I tried to
+do here was to make it a little bit detailed from a technical perspective so that you can
+understand some of the mechanism.
+But I'm not necessarily going to go over the specific details, that's just for your information
+if you ever want to cross link or cross check, try to figure out on your own what's going
+on.
+The goal is to kind of make you understand different aspects of the algorithm.
+So I will focus a lot on how to meet yourself very visible on the X timeline.
+And just to kind of set the stage, the X feed is basically run by Grog and so Grog controls
+it and determines what posts you see and what posts you don't.
+So it's basically a production machine and what it does is it ranks posts by the likelihood
+that someone will be interested in that post, right?
+So for example, when you go to your for you timeline, what you're seeing there is Grog
+having gone through post, determining posts that you're most likely to enjoy based on
+your predicted behavior of what you've done in the past.
+And it's going to try to determine what posts you tend to like to repost to code, et cetera.
+And try to show you those posts.
+It assigns a score to pretty much every single post and then once it has assigned a score,
+it then shows you on the timeline what those are.
+So on this page, on this slide, this is like an overview of what Grog is trying to do.
+So there was an update on May 15th where the latest update that's available, that X has
+rolled out or at least made it available to us.
+And it uses 15 to 19 roughly predicted actions to determine the score of each post.
+And these include likes, replies, repuls, et cetera, right?
+I'm going to go into more details.
+I'm not going to necessarily get into the specifics here.
+And then it has a for you feed and then it also has a following field, following feed.
+The following feed is typically people you're following and it's in a chronological order.
+The for you feed is the one that is fully ranked and basically it mixes posts that are
+from people in your network as well as people outside your network.
+And the goal is to basically estimate what every viewer is going to most likely engage with.
+So the key thing that I'm going to just going to take away from the slide is that
+likes, they help, however, in order for your post to be visible, people need to interact
+with it more deeply, like for example, through replies, repuls, et cetera.
+Secondly, in order for someone to see your post or for Grog to consider your post, it has
+to be able to categorize it into a particular topic to determine whether or not you're going
+to likely see it.
+And so your post has to generate basically a let go up, no, look it, this is exactly what
+it is about.
+And if clock can't figure it out, then it has a difficult time putting showing or determining
+who to show it to.
+Now, and as I mentioned, that the best posts are going to be the ones that are going to
+or replies, saves, clicks, et cetera.
+So here is a detailed workflow of how the 4U feed is built.
+And we're not going to discuss that.
+This allows you to kind of see how many different software are going into it and they're basically
+pulling out different posts, determining what you're most likely to see.
+Another, like for example, Phoenix looks at posts from people who you're not aware of,
+these are discovery posts, thunder is a software that uses that looks at posts from
+your people you're following, et cetera.
+So these are all the various different ones and I'm going to focus on the home mixer.
+And what the home mixer does is it basically gathers, determines information, it has information
+about the viewer, it gets the information on candidate posts, and then it sends the posts
+into a ranking and then basically assemble the final feed.
+So if you go on GitHub and you want to see what is the latest updates to the algorithm,
+you would go to the what home mixer does.
+And then after home mixer, there's a filter step that happens.
+Grok is looking at, okay, are there any duplicates present?
+So for example, if you posted and then somebody quoted you, that could act as a duplicate
+post because for the person who posted it, because his post is now present in two different
+posts or his or her.
+And so sometimes you might have noticed that the code takes off and so the quote then every
+time somebody interacts with the code, the person who had the original post will also
+see impressions, but they won't, they may not necessarily get interactions unless somebody
+goes into the quote, like he checks the quoted post and then interacts with that, right?
+So sometimes you see posts that have a lot of interactions or sorry, a lot of impressions,
+but very few interactions, but that's what's happening.
+Somebody most likely quoted it and they have all the, they're getting all the interactions
+at this post as a result, it's not getting enough, which is not a big deal because the
+main thing that's important is since we're monetized based on impressions on X, it doesn't
+impact how much someone would get because their posts being included in the monetization.
+At one point, they did do where it was based on replies.
+So if somebody was replying to the quote versus replying to the original post, the person
+with the quote, with the reply was, that would be considered an interaction.
+So that's just to keep some key ideas here to think about.
+Now, so the filtration part, as I said, duplicates are one, now already seeing posts.
+So if somebody has seen it once, they're like, you're not going to see it again.
+If the authors are blocked or certain you're using keywords that are muted, it will remove
+those posts.
+If there's a paywall, if you have a link, which goes to a paywall, where somebody has
+to pay before they can see the content, that's not going to be shown.
+So these are all the things to keep in mind when you're posting.
+And then what causes reach?
+So reach is basically dependent on decisions that are being made.
+So a post can fail early, basically because it didn't meet the filtering state, it got
+filtered out.
+So sometimes you see posts that have very few impressions compared to other posts.
+So that was probably something that reduced the reach of that post.
+So key things from the slide that I want you to take away is that you want to make sure
+that you have a really clear topic.
+It comes out because that helps with signals, one retrieval.
+Only post signals help the ranking.
+So more people that are interacting, liking, etc.
+replying to your post, that helps a lot.
+And then even if you have a great post, the pipeline decides what and how long it's going
+to be shown for.
+So that's an important piece to remember.
+Not all great posts are going to go viral.
+It could be that when you posted a great post, there could be multiple other people having
+great posts at the same time, or you're doing it during a news cycle, which is where everybody
+is talking about something and everybody's interested in hearing what's some news that
+just broke out.
+And so it doesn't matter how good your post is, it may not necessarily survive until that
+news cycle kind of goes out and then is filtered out and then or gets old.
+And then people are back to interested in older posts or different posts.
+So one of the things that is important in the latest version is that in the beginning,
+when you first post, your post is going to be shown to your followers.
+And if your post is, if your followers like your post, it's going to get you into more
+people and then also sent out of network as well.
+If your followers don't like your post, then what's going to happen is that the algorithm
+will determine, okay, this is not interesting.
+So early on, especially during the first offer or so, if your followers are interacting,
+that's a positive signal to Grog, who's running the post determining what's going to be showing.
+If your non-followers, if people who end up interacting are not followers, but they
+don't end up following you, that can actually hurt you.
+So the non-followers early on could basically create a negative score for you.
+And the reason it's done, what they have done it that way is to prevent people from those
+people who buy retweets or so it's to discourage those and basically make those retweets that
+are being bought by people who are selling and so forth, basically to prevent any cheating
+going on. So they've added that feature. However, ultimately, it's the non-followers that are going
+to scale. So if your in-network folks, if people in your network are interacting with your post,
+it's going to keep on showing more and more and more people. And if they keep on interacting,
+and so it'll eventually go out of network as well. And those people are interacting that would be
+actually positive and it would allow you to go wild. So followers are important for validating.
+And that's why the more followers you have, the better it is. But eventually, what is driving
+virality would be the non-followers. Does that make sense?
+So the key thing to take from this is that the first 30 to 60 minutes are going to matter.
+And it's important to kind of understand what the follower versus non-follower split.
+And you can get that from analytics to kind of find out, okay, what's going on.
+And then also, it's important to
+the stronger your post is, the more likely it is going to be shown to people outside your network.
+So next is, as mentioned earlier, so Grox is the program that's kind of the content gatekeeper.
+And it's going to determine whether or not it can classify your post and show it to people.
+So the key thing is that in your post, make sure that you're naming what you're identifying but
+the post is about. That is not vague. So for example, if you write, these are the top 10 history lessons
+that will change your life. And then you don't provide any additional context.
+It's a pretty broad field of history, right? And so it will be a big signal, it would
+learn. Whereas if you say that Haudenosaunee Dichi turned banking wealth into public memory,
+that's a strong signal. And that's details that Grox is going to say, okay, this is a pretty
+important topic. I'm going to show it to people who have this interest. Whereas
+a week when you have something very vague, Grox is going to score it pretty low.
+Also, if you, the more vague, generic language that you have, that's a no-no. So make sure that your
+subject is very clear when you, whenever you write post.
+Also use as much original examples and context as possible because Grox is at some other people
+already talking about it and mentioning it, then they would ignore it would basically rate your
+post at a lower level. And then also don't, as I mentioned, don't rely on generic phrasing,
+avoid any generic. So be very detailed in your post, have nice pictures, have nice videos,
+and make sure that they're not, they're original as original as possible. Otherwise, Grox is going
+to not show them. So strong signal is driven by original content and specific content,
+detailed content. This slide is focusing on how Phoenix basically
+retrieves candidates that are outside your, outside unit work. And basically it has
+a list of users and then has a list of posts. And it's trying to figure out which one to match to
+which, which posts to match to, which posts to show to who. So it also has user content,
+like it would have information on. All right, these are the different users who have interacted
+with this post in the past. These people have liked it, these people have replied to it.
+So it's using all of their information to do scoring. And so it's a pretty complex algorithm
+that they employ here. And then the scores that things that come up on the top are the ones that
+are shown. So key thing in all of these you can see is that the more specific you can be
+in your post, the more likely Grox is going to show them. The less specific they are,
+the less likely Grox is going to show that, right? So it's very important.
+A specificity is very important in this new algorithm.
+So in this slide, I'm talking about different types of interactions. And I'm going to go into
+a little bit more detail in the next slide on this. So I'm just going to say that certain actions
+are considered light positive. These are likes or use likes are pretty, and I'll go into rankings
+in the next slide, but likes are probably the least important interactions. What is high value,
+what's considered high value, are replies, reposts. If somebody follows you,
+after that read your post, that's a pretty strong interaction. Longer devolved times,
+profile, if they click on your profile, if they mark bookmark. So these are the ones,
+the high value positive interactions are the ones that you want to target.
+You want to make sure that you're post, you want to write your post in a way that either
+people would want to bookmark it, or repost it, or reply to it, or quote it. So that's what you
+should be thinking. Maybe ask yourself that question. Would I reply to this if I saw it from somebody
+else? Or would I repost it? Or would I just like it? Avoid anything that will generate negative
+actions, because they create a very negative, very negative score for your post, and it can
+basically shut it down. It doesn't. So if you write, for example, something profane against
+some radius or something like that, people could have a negative, could say, okay, I don't want to
+see this post. So try to put stuff that is not going to generate a negative action.
+So the key takeaway is, basically, focus on replies, focus on posts that would get replies,
+saves, meaning bookmarks, and where people read the posts, or they may go to your profile,
+and then avoid anything that drives people to, or that might offend people, and they may decide
+to mute or block you. Okay, so which signals carry the most weight? These are the latest rankings
+that are available. So if you look at this table, you would see, you're going to see that
+reposts or replies are very favorable. Bookmarks are very favorable. When people click on your
+profile, that's very favorable. People reading your post, it's building more time on it. That's
+very favorable. And if you see the likes, they have a very low score. It's usually it is 0.5 to 1x,
+and so it can be less than 1x. So don't give too much emphasis to replies. You want other
+interactions. Now, what is very, what is interesting here is that what is very favorable is
+when you have reply chains. So for example, if to post, let's say I reply to your post,
+and then you reply back to my post, to my reply, and then other people are now adding in or chiming
+in their thoughts. Now that could get up to 75x. So if you see your reply, our reply chain is really good.
+And I mean, here, I mean, in Masterclass, I mean, yeah, it's a team, right? And so when you guys are interacting
+with each other, think of these things, even for your post, think of how best, if I'm going to reply,
+I want to reply that would get some sort of interaction back, some sort of engagement
+by the author back, right? So you want to be thinking along those lines.
+And then, of course, we talked about negative actions giving heavy penalty.
+So the key thing here is make your posts so they're worth saving. They should invite thoughtful
+replies. And they should create enough interest for people to click on them and spend longer time
+reading. So you can tell if your posts are longer, they can spend longer time reading. If your replies
+are a little bit more detailed, if you just put an emoji, people are not going to, I mean,
+nobody's going to, people are going to be on their posts for too long. But if you reply,
+and people read that, people will spend time on their posts to read their reply, and they may be
+decided to reply back. So keep these things in mind.
+Here, the key point I mentioned earlier that when people are interacting,
+when all of the network people are interacting with your posts,
+they're going to get it penalty. And it could be 0.7 x, 0.8 x, or 0.9 x, depending upon how far
+they are from your network, or depending upon what their individuals who's interacting with you,
+what their rating is. Everybody has a rating as well. And so if people who are considered
+specialists in the topic area, or subject matter experts or influencers, they're interacting with you.
+Those will get a high score or full marks. If people who have maybe one to two followers and they're
+interacting with you, those posts are not necessarily going to get full marks.
+They can sometimes even get penalty, depending upon what kind of an account that is, if they're
+the converse, as penalties to it in the past, you're a conqueror get penalty to.
+And then one important thing is, if you post too much, let's say if you're posting 20, 30 times a day,
+because the algorithm is trying to show different authors, you're going to end up competing with
+your own posts. And so people, your posts is going to be only shown to one or two of your posts that
+are going to be shown to someone, a person A, another couple of posts, maybe type person B.
+And if you have 10 posts, now you can think of, basically you're kind of dividing it. So nothing
+really ends up taking off. So you want to avoid those scenarios. And I think a good rule of thumb
+is to maybe have a post every three to four hours. I sometimes follow it. I don't always follow that.
+But I'm a bigger accountant now. So I sometimes, if there is something that's interesting to post,
+I may go ahead post it, but you can also use the scheduler to post it at a specific time, if you,
+especially if you're early, if you're small account.
+Now, the first hour shapes the post fade.
+So the first hour is really important. And as I mentioned, there is small subset of your followers,
+typically five to 15% are going to see your post early on. And if they interact with it,
+that's a good thing. If they don't interact with it, that's a bad thing. And usually,
+if you follow a premium plus, you can get like a four X follower visibility. If they're not,
+a premium plus, you won't get any benefits.
+Now, so it's good to have a premium account just for their purpose.
+As I mentioned, I mean, the two buckets, one is the follower, which
+the followers are going to determine whether they're going to validate how good your post is,
+and then non followers are going to are going to help try reach later on. So really important
+for followers to interact with your post. Having followers, so that's why if you have bots as
+your followers, that's not going to help you, because they're not going to be interacting with
+your post. Having more bots is going to kill your reach.
+Key things to do in the first hour, do thoughtful replies, bookmark saves,
+look for profile clicks, repulses or quotes, how much time people may be spending reading your
+posts to consider that. And then replies matter significantly, because as I mentioned,
+the reply chain had a pretty high ranking. So the more replies you're seeing on your
+post, eventually it's going to, especially if their chain replies, because that's
+basically generating interaction. And that's going to result in a really positive outcome
+for your post if you get those.
+So it is because the first 30 to 60 minutes are important, it's really important to post when
+your core audience is active. You can see now that when your followers are on, but looking at
+analytics, what percentage of your followers are online at a given time. So you can use that
+information to determine. You should reply quickly with good comments, so that they get replies back.
+You should also consider when you're posting, is this, I'm going to ask yourself, is this something
+that somebody would want? Is this something that I would bookmark? Or is this something that I
+would reply to? So always think about that. And that's pretty much it. So these are just
+summaries of what you should do and what to avoid. You guys can read that.
+Key thing to take away is that attention is cheap, memory is earned, right? So you want people to
+remember you. That's the multiple aspect. And you guys have this presentation. So what I'm
+going to do now is this is our discussion. And I'm going to talk about a few tricks that you can
+employ that would help you grow. So before we go, there are any questions.
+Yeah.
+So I think emojis, I mean, you can consider emojis basically useless at this point because
+they're not going to be rendered by the algorithm, by Grog. Grog is going to
+just ignore any emojis because it doesn't consider that value added. And it has
+been mentioned, I think, a few times by Yewa Nikita online. So, for example, let's
+say your post on Savannah, let's take an example of that. And when I replied to
+your post and say that, oh yeah, I visited there and it was awesome. That's a value
+added reply because no, that's adding additional feedback, this adding validation
+to your post. Now, if somebody, if you come back and reply to me and say, yeah, what
+place did you like? Now you have created an opportunity for me to reply back. And if I
+reply back, now that's an additional, so now you're almost starting a chain. And
+somebody else might decide to come back. And so let's say I reply back and say, oh yeah,
+I enjoyed the cemetery there, the most that was fun. Somebody, somebody may go back, oh,
+did you do the ghost tour or did you do the regular tour? So now you can see
+conversation kind of building. So when you're thinking of posting or replying as an
+author, think of how you can maximize the conversation. Right.
+Well, yeah, no, no, I think that's a good thing, right? Because so severe, so I noticed
+that with one of my posts, I don't Shakespeare, a few of you guys interacted with that post.
+And then I can have replied back to it. And so in this room, let's say three people interacted
+from masterclass with that post on Shakespeare. And I replied back. And so that's kind of
+adding validation to it. I mean, any way we're friends, we know each other. And most
+likely, chances are we're going to see each other's post, the more we interact with that.
+So if you start interacting, like I think it was, Iso posted on Shakespeare. And yeah,
+Natalie, she posted on Shakespeare. So I basically quoted that with another question of what that
+post and then got replies to it. That helps her. It helps her original post. It now allows me
+to create a new post, create conversation. And it exposes other people to her posts as well.
+So in a way, you could, by being in this community, we are not sure if we're interacting with each
+other, we're going to see each other's post tomorrow. That's the key thing. The more you interact with
+each other, the more you're going to see their post, because the algorithm is not taking. Okay,
+this case, I tend to interact when the seed or when is a sees time, Thomas Travers post.
+And so she's kind of. So the algorithm will show is more the post from that Thomas Travers. That's the
+case. It is very difficult. I mean, I just happened just like, for example, I see that post
+today. And the reason I probably saw her post was because other people had from Masterclass
+interacted with it, whom I interact with. But typically, it's not very often that I see her post,
+but she interacts with mine. I've seen her quite a few times, but I rarely do so because other
+people in Masterclass were interacting with her post. I was interacting with those people. I was
+able to see that as a result. So that's, I mean, it makes it a community, it makes it. That's where
+people in Masterclass can help each other by making things more visible. Not every post from
+everybody is going to align with their content, right? We all have different niches, different interests.
+But there's office opportunities to kind of link something or every now and then there's
+going to be a post that. So when you're generating a post, you can think of that as, okay, how do I
+make it more relevant? Yes, this is about financial. But I can make, I can talk about finance in terms
+of how Medici did banking, right? And so now there's a cultural aspect to it. There's a,
+so all of a sudden, there's a, even though you're a finance person, you're not going to,
+because you're at, you're going to, if you ask what the impact of the Medici's
+banking empire was to civilization at that time, chances are you're going to get interaction
+or a lot of cultural accounts now. So I always think of the how I can make it relevant
+to different people without necessarily going out of your box. So like, when I, a lot of,
+so does it pose to wild replies that have, that may have nothing to do with culture,
+but then I take a cultural angle, say, okay, what would, how would,
+let's take something, let's say, let's say, take politics, something happened, and what does,
+let's say somebody called somebody and, or one of us, and so typically, I mean, it's not something
+that I care about that much, but for me to, I can reply to it, or I can create a post out of it,
+but saying, what does it tell about a society that tolerates such, that, that allows crime,
+crime to go unpunished, right? And all of a sudden, this, no, relevant to
+people that follow me.
+Does it help?
+Okay, so one thing that I wanted to mention, other other other questions,
+because I'm going to give, tell you guys about a,
+that that you guys can use. So first of all,
+we all started small, time, I mean, at one point, I had a thousand followers,
+time was stronger, a thousand followers. I've known time was stronger for, for, for at least
+over a year now, and we were interacting with each other. Now, time was stronger,
+has like 280,000 followers? Yes, more than me. And, but over the year, right, we have built
+a friendship, and we know each other, and we share each other's posts.
+So as you guys grow over time, so by having these deep networks right now,
+as you grow over time, you're going to notice that you all of a sudden, even though you were
+small accounts or beyond all of a sudden, not you and the company of large accounts, big accounts,
+and you're going to get more visibility every time they share. So that's why that's the importance
+of building networks. Four or five years ago, of an AOP stutter to the account, or four years ago,
+he was small, like, let's write, he didn't have that many, but there were a lot of other people
+that he was, he started at the same time, and they were all small too, but not, not that are big.
+And so same thing with me, I mean, two years ago, I couldn't have imagined that, oh, okay, I'll have
+250,000 one day, or 25,000 one day. And, but now, I do, and a lot of people who start at the same time,
+some of them have 100,000, some of them have 400,000, some of them have
+290, some of them have 50,000, right? But these are all people who I know now, who we typically interact
+with each other, and all of a sudden, we're in this company of where, we're all big accounts.
+So every time somebody share, we share each other's, people see it, so that's why we get more
+impressions as a result. So that's the importance of networking. People will remember you the more
+you interact with them over time, if they don't seem like that, but over time, it adds up.
+So Thomas Trevor has also put some examples of like how to create great posts, and he identified
+a few things that he has posted in masterclass that seemed to work. I think those are, I would try
+those things. And when you, when you see them, say, oh yeah, this sounds obvious.
+Why don't I think of that? But, so keep an eye on like what other people are doing,
+and use silver style. The key, as I said, is think of, okay, will this get a reply?
+Will this get somebody to provide another opinion on this?
+The more you can do that, the more you can
+and if right to a post so that there can generate a conversation,
+the better it is. So one of the things, and I'm going to stop the recording right now,
+because we're going to talk about a few hacks, and it's good to know some of these hacks.

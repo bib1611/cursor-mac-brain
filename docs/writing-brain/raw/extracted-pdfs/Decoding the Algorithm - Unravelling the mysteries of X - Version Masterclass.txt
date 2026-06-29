@@ -1,0 +1,562 @@
+  Decoding the Algorithm
+Unraveling the Mysteries of X
+
+
+
+
+     By Culture Explorer (@CultureExploreX)
+
+     E-mail: admin@thecultureexplorer.com
+
+
+                 Masterclass Version Copyright 2024
+                            Unraveling the Mysteries of X
+
+
+Introduction
+
+Imagine you are a new content creator on X named John. As you start your journey, you
+will need to understand what X's primary goal is and how you can leverage X's goal to
+achieve yours.
+
+
+So let us begin.
+
+      What is X's primary goal?
+
+      How does it achieve it?
+
+
+
+X's primary goal is to keep you engaged on the platform for as long as possible, so you
+see more advertisements, which translates to higher revenue for X. To achieve this, the
+algorithm operates by asking two fundamental questions:
+
+
+
+   1. "What type of content is John most likely to engage with?"
+
+   2. "What's trending among users with similar tastes to John?"
+
+
+
+X then employs a sophisticated algorithm designed to captivate your attention.
+
+
+
+
+                        https://www.thecultureexplorer.beehiiv.com                    2
+                              Unraveling the Mysteries of X
+
+
+Now, imagine you're a street performer in a bustling digital city.
+
+
+
+
+Each platform, be it Instagram, X (formerly Twitter), TikTok, or LinkedIn, is like a different
+neighborhood with its own culture and rules.
+
+
+
+You're trying to gather a crowd, but the city's mysterious town crier–the algorithm–
+seems to whisper your showtimes only to a select few. Why is that?
+
+
+
+
+                          https://www.thecultureexplorer.beehiiv.com                        3
+                             Unraveling the Mysteries of X
+
+
+In this city, the crier favors performers who can make the townsfolk stop, watch, and
+cheer – the performance must be able to engage the audience.
+
+   •   If your content gets likes, comments,
+       shares, or saves quickly, it's like the
+       audience is throwing coins into your hat.
+   •   The more coins, the more the crier thinks,
+       "Ah, this performance is worth announcing
+       loudly!"
+   •   But if people just walk by or give a cursory
+       glance, the crier might not bother.
+   •   The key is to produce content that not only
+       captures attention but also fosters
+       engagement.
+
+Are your posts the kind where someone feels
+compelled to comment or share their thoughts?
+
+
+
+
+Now, imagine every person in this city has a unique set of interests, painted in invisible
+ink on their foreheads – the performance must be relevant to the crowd.
+
+
+
+   •   The crier reads this ink and tries to match
+       performances to interests.
+
+   •   If your content doesn't align with what the
+       audience usually engages with, or if it's not
+       described in a way that matches these
+       interests, you're like a mime in a
+       neighborhood that loves opera–wrong place,
+       wrong time.
+
+
+
+       Know your audience. What topics are they
+       following? What content makes them tick?
+
+
+
+
+                         https://www.thecultureexplorer.beehiiv.com                          4
+                             Unraveling the Mysteries of X
+
+
+There's also the matter of when you decide to perform – Timing is important.
+
+
+
+   •   If you start your show when
+       everyone's at work or asleep, even the
+       most enthusiastic crier can only do so
+       much.
+
+   •   Post when your audience is most
+       likely to be online.
+
+Each platform has peak times, and using
+insights or analytics can turn you into a savvy
+time traveler, hitting the stage when the
+crowd is just right.
+
+
+
+
+Now imagine if our performer shows up erratically.
+
+
+
+   •   Today at the fountain, next week by
+       the old mill, then gone for a month.
+
+   •   The audience loses interest.
+
+
+Regular performances (posting consistently)
+tell the crier, and thus the audience, that
+you're here to stay, worth the watch, and
+worth promoting.
+
+
+
+
+                         https://www.thecultureexplorer.beehiiv.com            5
+                              Unraveling the Mysteries of X
+
+
+Here's where our story gets harsh – perhaps the most important factor is the quality of
+the performance.
+
+
+
+   •   If your act isn't up to par, if it's the same
+       old juggling routine everyone's seen, why
+       would the crier shout about it?
+
+   •   Innovation, quality content, or a unique
+       voice makes you noteworthy.
+
+
+
+Are you bringing something fresh to the table, or
+just echoing what's already out there?
+
+
+
+
+Sometimes, the crier isn't just announcing; he's conversing.
+
+
+
+   •   Engage back with your audience.
+
+   •   Reply to comments, visit their shows
+       (profiles), applaud their content (like and
+       comment).
+
+   •   Social media is, after all, social.
+
+
+Building relationships can turn the crier into
+your personal herald.
+
+
+
+
+                           https://www.thecultureexplorer.beehiiv.com                     6
+                            Unraveling the Mysteries of X
+
+
+
+
+Now that we have taken a 10,000 feet view of how the algorithm works, here is a basic
+breakdown of the process:
+
+   1. The algorithm starts by scanning through approximately 100 million posts on the
+      platform. From this massive pool, it identifies around 1,500 posts that it predicts
+      you will find most enjoyable and engaging.
+
+   2. Then, the system assigns an 'engagement probability score' to each of these
+      selected posts. The posts are subsequently ranked from highest to lowest based
+      on these scores.
+
+   3. In the last step, the algorithm removes posts containing misinformation or
+      originating from blocked accounts. It then curates your timeline by displaying the
+      highest-scoring posts first, strategically placing advertisements every 2-3 posts.
+
+      Note: This strategy is based on 2023 algorithm settings. The latest version of the
+      algorithm may have undergone changes.
+
+
+
+By understanding how X's algorithm selects, ranks, and filters posts, you can tailor your
+content to enhance engagement. This knowledge can significantly boost your reach and
+impact on the platform, helping you connect with a broader audience.
+
+
+
+
+                         https://www.thecultureexplorer.beehiiv.com                         7
+                            Unraveling the Mysteries of X
+
+
+Decoding the X Algorithm
+
+X's algorithm is a complex system designed to deliver the most relevant and engaging
+content to its users. By analyzing various data points, such as the follower graph,
+engagement metrics, and user behaviors, X curates a personalized feed for each user.
+This process, known as candidate sourcing, involves filtering through hundreds of
+millions of posts to select the top 1,500 that are most likely to be of interest.
+
+Understanding how this algorithm works can help content creators optimize their posts
+for better visibility and engagement on the platform.
+
+
+
+
+                         Candidate Sourcing Flowchart (Part A)
+
+
+
+X uses three types of data points:
+
+          1) the follower graph showing who follows you,
+          2) engagement data such as likes, reposts, and replies, and
+          3) user data such as reposts, replies, mutes, unfollows, and spam reports.
+
+
+
+This data is used to source relevant posts, a process known as candidate sourcing.
+
+
+
+                         https://www.thecultureexplorer.beehiiv.com                     8
+                                 Unraveling the Mysteries of X
+
+
+Candidate Sourcing
+
+
+
+X attempts to extract the best 1,500 posts from a pool of hundreds of millions through
+candidate sources.
+
+
+
+This includes:
+
+
+    1. People You Follow (In-Network)
+
+        Roughly 50% or 750 posts come from here.
+
+        In-network sources use a complex logistic regression model to filter out irrelevant
+        posts and carefully curate the most important and timely messages from the
+        users you follow.
+
+        This happens through RealGraph, predicting the likelihood of two users
+        engaging. The higher the score, the more likely they are to appear on your feed.
+        The top posts go to the next level.
+
+
+
+
+RealGraph constructs a weighted graph using details about a tweet, its author, and the intended recipient
+to estimate the likelihood of interaction between them.
+
+
+
+
+                             https://www.thecultureexplorer.beehiiv.com                                9
+                           Unraveling the Mysteries of X
+
+
+   2. People You Don't Follow (Out-of-Network)
+
+      Roughly 50% or 750 posts come from here.
+
+      X uses social graphs and embedding spaces to determine the relevance of posts
+      from people you don't follow.
+
+      The social graph considers what posts the people you follow have recently
+      engaged with and who likes similar posts to you. These posts are then ranked
+      using a logistic regression model called Graph jet.
+      Embedding spaces work on content similarities, using numerical representations
+      of users' interests and posts' content to calculate similarity.
+
+             One of X's most useful embedding spaces is SimClusters, which discovers
+             communities anchored by influential users using a custom matrix
+             factorization algorithm.
+             This helps posts reach those who are not already following you. There are
+             145k communities, updated every three weeks, with users and posts
+             represented in the space of communities.
+
+
+
+
+                             SimCluster Communities Diagram
+
+
+
+At the sourcing stage, X rewards great engagement with great reach.
+
+
+
+
+                        https://www.thecultureexplorer.beehiiv.com                   10
+                              Unraveling the Mysteries of X
+
+
+Ranking System for Determination of Engagement Interest and Primary Ranking
+
+
+
+X has 1,500 candidate posts that are probably relevant.
+
+
+
+Scoring these posts directly predicts the relevance of each candidate's post and is the
+primary signal for ranking posts on the timeline.
+
+
+Variables contributing to a post's ranking include likes, reposts, replies, images, videos,
+profile taps, X Blue, account reputation, unfamiliar words, unknown language, links,
+misinformation, hashtags, and type of writing.
+
+
+Your post's selection in the top 1,500 posts depends on these variables. The actions
+and their weights are:
+
+   •   Likes: Positive
+
+   •   Reposts: Positive
+
+   •   Replies: Positive
+
+   •   Image & Video: Positive
+
+   •   X Blue verified: Positive
+
+   •   Good account reputation: Positive, Boosted.
+   •   New words or unknown language: Negative
+   •   Links: Negative ranking unless there is good engagement.
+   •   Misinformation: Negative ranking.
+
+   •   Multiple hashtags: Negative ranking.
+
+   •   Type of writing: Negative ranking.
+
+   •   Interacting with low-quality accounts and blacklisted topics: Negative ranking.
+
+   •   Request "show less often" on your post or you, block/mute you, reports:
+       Negative, this is terrible.
+
+
+
+       Note: X could assign different weights to these and can change them at any time.
+
+
+                           https://www.thecultureexplorer.beehiiv.com                     11
+                              Unraveling the Mysteries of X
+
+
+Trust & Safety at Twitter reviews content to determine if it breaches the platform's
+guidelines, focusing on removing child pornography, hate speech, and misinformation.
+
+Notably, it also flags content related to "the Ukraine Crisis."
+
+
+
+
+Keep in mind that X can change these criteria, however, the general logic would not
+typically change.
+
+
+
+Now that we have covered how the initial rankings are determined, we will go over what
+is required to maintain the ranking.
+
+
+
+
+                          https://www.thecultureexplorer.beehiiv.com                  12
+                            Unraveling the Mysteries of X
+
+
+Conclusion
+
+The X algorithm is a sophisticated system designed to maximize user engagement by
+delivering personalized and relevant content. By leveraging machine learning, real-time
+data, and user interactions, the algorithm ensures users see the most engaging and
+timely posts.
+
+
+Why?
+
+          1) So, X users stay on X as long as possible.
+
+          2) X users keep coming back to X and to your posts and profile.
+
+
+
+
+                        https://www.thecultureexplorer.beehiiv.com                   13
+                         Unraveling the Mysteries of X
+
+
+Appendix A: Steps to Maximize Reach
+
+ 1. Get X Blue:
+
+    Subscribers get a boost in the algorithm if in the same network as the post's
+    author and a smaller boost if not.
+
+
+ 2. Maintain a High Follower-Following Ratio:
+
+    Reduces the page rank of users with a low number of followers but a high
+    number of followings.
+    The division factor based on this ratio reduces the user's page rank.
+
+
+
+ 3. Keep Your Tweepcred Higher than 65:
+
+    Tweepcred is a score based on interactions, account age, followers, and device
+    usage. Healthy engagement keeps it high, while spam reports, blocks, and mutes
+    hurt it badly.
+
+
+
+ 4. Be active and consistent:
+    Your posts should be recent.
+
+    You should stick to a consistent schedule.
+    You should make sure you stay on topic.
+
+
+
+ 5. Niche Down and Become a Trusted Voice:
+
+    Become popular within a specific community by engaging with prominent
+    accounts in that niche. This boosts visibility within that community.
+
+
+
+ 6. Post Threads or Long form posts:
+
+    Informative posts or threads increase post engagement.
+    Threads should have a good hook to reel in the audience.
+
+
+
+                      https://www.thecultureexplorer.beehiiv.com                    14
+                         Unraveling the Mysteries of X
+
+
+
+
+7. Follow Influencers:
+
+   Follow thought leaders and influencers in your area or industry.
+
+   Engage with the content of these accounts.
+
+
+
+8. Encourage your Followers to Engage.
+
+   As discussed earlier, that engagement is a key factor in increasing the visibility of
+   your posts.
+
+   Pose questions and ask for responses.
+
+
+
+9. Engage in the First 6 Hours:
+   Posts have a half-life of 360 minutes. Engaging and replying to comments during
+   this time can boost your post's relevancy.
+
+
+
+10. Add Images & Videos:
+
+   Posts with images and videos get a boost. Ensure the visual content is high
+   quality and relevant.
+
+
+
+11. Be Less Controversial:
+   Avoid getting blocked, muted, or reported, as this reduces your "reputation
+   score."
+
+
+
+12. Create a Reason for Engagement:
+
+   Content that encourages users to click, reply, and engage can skyrocket your
+   reach. User actions are significant in this process.
+
+
+
+
+                      https://www.thecultureexplorer.beehiiv.com                     15
+                        Unraveling the Mysteries of X
+
+
+
+
+13. Reply with engaging content that would attract attention:
+
+   Engaging with replies on your post or on other trusted influencer accounts that
+   have high engagement.
+
+   Do not reply to untrusted accounts.
+
+
+
+14. Do not Add Links:
+   External links mark you as spam.
+
+   Ensure your post gets good engagement if you include links.
+
+
+
+
+                     https://www.thecultureexplorer.beehiiv.com                      16
+

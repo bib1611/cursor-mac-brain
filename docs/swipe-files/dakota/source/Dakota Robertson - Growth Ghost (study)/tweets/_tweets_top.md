@@ -1,0 +1,57 @@
+# Dakota Robertson (@WrongsToWrite) — tweet capture
+
+- Total captured: 3199 (API serves most-recent ~3200 of 57,100 lifetime)
+- Captured: 2026-06-01 09:27 via xurl read-only
+
+## Top 50 by impressions
+
+- [2026-01-21] 568651 imp / 18488 likes — If you're a man under 6ft:  1. Go to Scandinavia. 2. Find a 6ft 9 viking wife. 3. Course correct for your future kids.  Fix the bloodline.
+- [2025-11-01] 115333 imp / 249 likes — My boss laid me off.  Not because I did anything wrong.  • I was never late. • I did everything they said. • I worked 12-hour night shifts.  But one day, my manager called me on my day off.  "The company is rolling out budget cuts and we have too much staff. I’m sorry, but https://t.co/kd7v43gYdk
+- [2025-10-20] 98510 imp / 732 likes — I've spent 10,000+ hours prompting AI.  I made a GPT that makes perfect prompts in 5 seconds (no experience needed).  Just tell it what you want a prompt for.  Want it for free?  • Comment "AI" • Like this post  And I'll DM you (max 500 people). https://t.co/cMQmiBIMyN
+- [2025-11-17] 71108 imp / 1271 likes — I've been agnostic most my life.  But over the past few years, I noticed a pattern among my smartest and most successful friends/mentors:  They all believe in Jesus Christ.  I've always been open to the idea of God, but never took the time to learn more.  Because of this, I felt
+- [2026-01-07] 51905 imp / 526 likes — "How about you work for free and I'll pay you once you make me money." https://t.co/ti1MihKakQ
+- [2025-11-19] 51630 imp / 1221 likes — Sent a proposal to a prospect.  Closed them on a long-term contract (while wearing Crocs). https://t.co/SMzUJBZvqr
+- [2025-10-22] 41369 imp / 145 likes — McKinsey says ~600,000,000 could lose their jobs to AI in 5 years.  Here's how to build a $10K/month AI business instead:
+- [2025-10-07] 31506 imp / 883 likes — Learn AI. Learn sales. Learn writing. Learn content. Learn systems. Learn marketing.  1 skill makes you like everyone else.  Stacking skills turns you into a niche of 1.
+- [2025-08-23] 29533 imp / 892 likes — You're always 1 year of consistency away from a new life.
+- [2025-07-09] 26935 imp / 648 likes — The most successful people I know are weird af.
+- [2025-10-17] 26475 imp / 104 likes — You can replace your income with AI (while working your job).  Here’s how 9-to-5 workers are making $10K/month remotely with AI:
+- [2025-07-03] 26039 imp / 562 likes — Ignoring AI is like ignoring the internet in the 2000's.  Adapt or get left behind.
+- [2025-10-18] 24582 imp / 119 likes — If someone can get a degree to do your job, you’re replaceable.
+- [2025-07-01] 24476 imp / 97 likes — This is Mathew Luhn.  He's the storyteller behind Toy Story, Monsters Inc, and Inside Out.  From toy store clerk to billion-dollar storyteller...  Here are his 10 best storytelling secrets: https://t.co/fs1ONpLPZT
+- [2025-10-30] 24442 imp / 447 likes — The most powerful skill you can learn?  Writing.  DMs = Writing. Videos = Writing. Content = Writing. Thinking = Writing. Speaking = Writing.  Writing repetitive lists with a meta joke about writing = Writing.  Learn to write and you'll open up endless opportunities.
+- [2026-02-12] 24390 imp / 203 likes — Bro, fire your ghostwriter. He's not even trying. https://t.co/h1QyUT8huv https://t.co/0X82ppEjKR
+- [2025-08-20] 23060 imp / 710 likes — Simplicity is a sign of intelligence, not complexity.
+- [2025-10-26] 22585 imp / 115 likes — Got my testosterone analyzed by an endocrinologist. He thought I was lying when I said I wasn't on gear.  Coke Zero and seed oils are paying off.
+- [2025-10-24] 22571 imp / 151 likes — Ben was the only person’s newsletter I’d read. I admired his writing talent.   I never had the chance to interact with Ben but it was obvious he was a genuine dude and had a positive impact on thousands.   Thoughts and prayers to everyone affected. https://t.co/hAZ3OEKOAJ
+- [2025-12-03] 21594 imp / 404 likes — POV: you hit your first $10K month... https://t.co/duDCRk4wpB
+- [2025-10-16] 20822 imp / 106 likes — How I helped a beginner writer hit $11.9K/month (in 6 months).  If you want to build a writing business with AI, read this:
+- [2025-07-16] 19968 imp / 101 likes — McKinsey says ~600,000,000 could lose their jobs to AI in 5 years.  Here's how to build a $50K/month AI business instead:
+- [2025-10-10] 19542 imp / 146 likes — Today's post from Telegram's founder is spot on.  Part of the reason I left Canada. https://t.co/8JPz8C4rVU
+- [2026-01-21] 19064 imp / 6 likes — @Tim_Denning Huge wisdom right here 🤌🏻
+- [2025-07-06] 18930 imp / 346 likes — How to write well:  1. Write shitty. 2. Keep writing.
+- [2025-11-01] 18563 imp / 663 likes — The most successful people I know are weird af.
+- [2025-07-29] 17676 imp / 285 likes — The future belongs to storytellers.
+- [2025-07-09] 17611 imp / 412 likes — Bet on yourself, motherfucker.
+- [2025-08-11] 17370 imp / 284 likes — Productivity hack:  Turn off your fucking phone.
+- [2025-07-14] 17038 imp / 370 likes — You won't be replaced by AI.  The person who learned to use AI will replace you.  Adapt or die.
+- [2025-07-18] 17017 imp / 228 likes — AI can make geniuses jobless and idiots millionaires.  Up to you if AI becomes a weapon or tool.
+- [2025-07-02] 16930 imp / 291 likes — Using your balls will get you farther ahead than using your brain.  Just start.   Figure it out as you go.
+- [2025-07-11] 16699 imp / 409 likes — Your 20s are simple:  Train like an athlete.  Read like a scholar.  Think like an artist.  Hustle like a crackhead.
+- [2025-08-17] 16644 imp / 287 likes — Be willing to look dumb until those who called you dumb ask you how you did it.
+- [2025-08-22] 16305 imp / 249 likes — If you can spend 20 hours/week consuming others' content, you can invest 10 hours creating your own.
+- [2025-10-09] 16155 imp / 234 likes — You can run a $20K/mo ghostwriting business with 4 AI tools:  • Claude → Writing • Manus → Market Research • Fathom → Client Interviews • ChatGPT → Image Generation  Ignoring AI today is like ignoring the internet in the 2000s.
+- [2025-07-28] 16111 imp / 230 likes — Writing tip:  You really don't need to use the word "really" in your writing.
+- [2025-07-15] 15705 imp / 299 likes — The paradox of great ideas:  They happen when you're not trying to find great ideas. Go on walks, talk to strangers, read fiction, detach from work.
+- [2025-07-23] 15558 imp / 201 likes — The most successful people I know are Jacked Nerds.
+- [2025-08-17] 15528 imp / 284 likes — The most successful entrepreneurs I know view business as a game.
+- [2025-08-08] 15505 imp / 308 likes — I promise you:  90% of the people you look up to are figuring it out as they go.  You don’t need a “master plan”.  Just get off your ass and start.
+- [2025-07-06] 15353 imp / 291 likes — If you're a nerd, lift weights. If you're jacked, read books.  A jacked nerd is fucking unstoppable.
+- [2025-08-16] 15141 imp / 201 likes — 6 months of self-education on YouTube taught me more than 2 years of college.
+- [2025-08-13] 14940 imp / 310 likes — Yeah, building a business is hard.  But working a job you hate is harder.
+- [2025-06-29] 14899 imp / 118 likes — A 15 y/o joined my ghostwriting program.  On our 1-1 call, he was worried about not being taken seriously because his age.  I told him to lean into the fact he's 15. It's a unique angle that separates his brand.  24 hours later, his 1st post got 140 likes, 100 followers, 1 https://t.co/SHakGT7Fji
+- [2025-08-06] 14818 imp / 302 likes — Lifting weights is a gateway drug to happiness.
+- [2025-08-07] 14726 imp / 296 likes — The core 4 skills every creator should stack:  1. AI. 2. Sales. 3. Writing. 4. Marketing.  Full-Stack Creator &gt; One-Skill Creator
+- [2025-10-08] 14711 imp / 266 likes — The best content hack:  Log off and live an interesting life.
+- [2025-10-25] 14583 imp / 184 likes — Life is peaceful when you find the right girl.   No FOMO to go out. No wasting time/energy on unqualified dates.  Frees up so much mental bandwidth to focus on what/who you care about.   10/10 would recommend.
+- [2025-08-10] 14554 imp / 167 likes — Creating content for 6 months gave me 1000x more opportunities than perfecting my resume ever did.

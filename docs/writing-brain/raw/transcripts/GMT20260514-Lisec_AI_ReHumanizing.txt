@@ -1,0 +1,780 @@
+Welcome, everyone. This is Nino Art of Purpose. Today, we are joined with Joshua Lizaek.
+We're going to be covering an important topic today. The best way to edit AI and re-human
+your writing right now. A lot of you have been going on the sub stack. We've been writing
+X articles. We've been writing a lot of long form content. So we've brought in one of the
+best authors in the world, New York Times bestseller, Joshua Lizaek, who's been a guest for our
+masterclass community again and again and again and again. And today, we're going to be talking
+about how to re-human your writing with AI, which I think is one of the most popular subjects that
+we need to talk about right now. Joshua, how are you doing today, brother? I'm doing pray to Andy,
+and I'm glad to be here with you guys today, talking about using AI to speed up your writing
+without lowering the quality. It's an essential topic because it's often discussed, but I think
+really implemented as a lot of the questions and comments and are demonstrating inside of here
+what people want to learn. So let's talk about what happens when you see someone's AI generator
+writing. I've been running a cohort. I don't know if you know this. I've been running a cohort with
+the Culturist and Cultural Explorer, huge accounts, huge sub stacks, huge writers online, and we've
+been looking at a lot of writing. We've had people submit their articles, submit their drafts and
+stuff like that, and they'll go, you know, well, they won't even like feel it. Some of them won't
+even feel anything about them. They'll just be like, well, what's wrong with this? I mean, I've seen
+it done before. What is the effect that AI writing does to someone when someone reads your writing?
+How do they feel? There's a couple of experiences people have, and we know this from organizations
+like Forrester and Gartner and even Pugh and Gallup have done polling and then surveys of people
+and what they feel as a result of reading, obviously, AI writing. Now, I don't like adverbs
+or bad verbs, I'm going to call them, but I'm going to give myself a pass here. What happens when
+someone feels like it's AI is a wall goes up, and that wall is a wall of disinterest and distrust,
+disinterest and distrust. I will tell you something that I experience. I see, oh, this is an interesting
+thread. Oh, it's got an exciting picture. It was obviously pictures made of AI made with AI,
+but maybe there's something fascinating of interest that I'll learn about this
+key historical event that's little known, little discussed for highly controversial reasons. Oh,
+I'm going to be all over that. I start reading, and then I see towards the beginning a sentence
+such as, and it's not just about what happened. It's what didn't happen. Not just didn't happen,
+not just, okay, and I'm out. I'm done. Nope, I'm not going to learn anything. My wall of
+disinterest and distrust goes up. And what I've now taken to doing is simply muting or blocking
+every single account that I catch doing that. And it's not because they're using AI. It's because
+they demonstrate by just simply copying and pasting the output that they got from AI.
+It shows they don't actually know if what they're saying is true or not. They haven't demonstrated
+grasping, grappling enough with the subject to know if it's true or not, simply copying and pasting.
+This was an experience that was really problematic in college and university when I was a relative
+youngster, where people were simply copying and pasting Wikipedia articles. And the professor
+said, you can't do this because if you're something copying and pasting what someone else
+wrote, I don't know if you actually know anything about this subject. I can't give you anything but
+an F on this because you failed to demonstrate even minimum viable grasp of this concept. So
+every one of you I catch using AI, I give you an F. So I mute you or I block you. What they're
+saying may be true. This is what is just so crazy about it. There may not be, as Dino just said,
+what's wrong with it? Exactly. There's nothing wrong with it necessarily besides that it shows
+I can't trust you to know anything that you're saying about as a subject matter expert. So I
+distrust you personally and I also have disinterest. I've now lost all of lost all attention for this
+because oh, if it's coming from AI, we know it's probably going to have some sort of a safety or
+safety and trust filter on the information. So it can't, because of whatever
+woke intelligentsia filter reason, it's not going to be able to tell the whole truth. It's going to
+have to slanted or skew it in some way. Now there are people who are very open about their use of
+AI. If everyone follows the at data Republican account, she's very open about how she uses AI.
+Her AI is very simple and I've seen her do it. She uses a couple of prompts, simply something
+like turn these notes into full sentences, right? Where she has the demonstrated confidence and
+I've gone through the before and after I've seen here's a notes like it's, it's, it's
+phrases, bullet sentences, it's quotes, the citations, all the stuff. And in one click, it turns it into
+full sentences. So she has the source material, the content, the prompt that she uses it to turn
+it into this thing that's now readable and doesn't have many of the tells of AI because it's not
+generating something from scratch. It's more akin to a photographer putting their picture
+into Photoshop and doing a few simple automatic touch-ups like that, like, like, like brightening
+for, for instance. And if you look at the official guidance from the United States Copyright
+Office, if you're in a different country, look up your nation's copyright guidance on this,
+that's actually an analogy that the Copyright Office uses. So you can use AI as a tool it specifically
+says, although this is not legal advice, it's not medical advice either or business advice,
+but maybe it should be all three of those. What the Copyright Office guides, guidance is rather
+is in the same way that a photographer uses Photoshop as a technology to manipulate their work and to
+further the human creative ingenuity of it, that process, we can use AI, a generative AI tools
+for that same purpose. But if you simply have it, write something on the subject, yet you don't
+own that, that's effectively public domain. Generate this photo, make this picture,
+invent this picture from scratch, then it's not really showing any kind of human effort or human
+creativity or anything of the like. So if you have AI as part of your writing process,
+your content creation, you must be immensely, immensely careful. For copyright reasons,
+if you want to be able to copyright it in some way, if you want to avoid throwing up Joshua
+Lycic's disinterest and distrust walls and getting an automatic F from Professor Lycic via the mute
+or block button, we must be very care careful. And we can talk about how to be careful, how to
+properly use AI if you like. But that is sort of my introductory gist to the dangers of using AI
+irresponsibly. I hope you all take this seriously. So now I want to touch on something you said,
+it's interesting, you mentioned data Republican, right? I use AI almost the same way. I almost
+give it the same prompt. I use a, I do a voice dump, right, with all my ideas. And at the beginning
+of it, I say lightly edit for punctuation, right? So it's interesting, it's almost the same thing.
+But what will happen is it will still insert the, it will still do, and this is after me,
+and sometimes I even curse and scream at the, at some of them, but I go, what are you doing? Don't
+ever do that. But I'll go through and edit. But so what are the biggest tells that you can tell?
+I've gotten way better at spotting these, but I wonder where you're at somebody who's a professional
+writer. That is an interesting point. So I first want to address that. One of the best
+prompts that I found to avoid, like if you, if you have a bunch of notes or transcript,
+and you want it to just edit and make it readable, you're writing, use three adverbs. It just like
+female liberal affluent professionals who work in HR or marketing, you know, a non-STEM field.
+What you'll notice that they, they, they overuse adverbs, both in their own communication,
+and they take them additionally seriously when adverbs are used on them. So because
+chat GPT and many of these popular mainstream generative AI tools are, I will say feminist
+coded. And I suppose that is both literal and figurative. You must use at, you must use adverbs
+on it. So I would suggest you, do you know, and anyone who's like wants to edit transcripts,
+you will say only very lightly, only very lightly. I removed that word from my language, though.
+Edit this. I know, but you had to put it back in for the feminist and feminized, effeminate AI
+tools, right? Only very lightly edit this. And then, and then you don't say edit because
+it doesn't know what that means. You have to be hyper specific, just like the voids with them.
+You say for readability. Wow. So this is your prompt for editing and transcript.
+Only very lightly edit this for readability is how you have to say because then it goes,
+Oh, okay. Don't only very lightly edit by putting my voice in there and saying it's not just that
+I'm the art of purpose. I also have the, you know, otherwise it will do that.
+
+Sometimes I say keep the raw tone and language because a lot of the times you'll I'll say
+something and you know give like a visceral explanation for I was just gonna leave it
+at that right like say something that is not woke ideology and it will remove it from so
+what it does is I'll give it I hate to say this I'll give it gold like I will give it
+gold I've had some seriously fire art three million view articles and stuff I'll give
+it gold it will remove the gold trends and it will bad adverb it up remove some great
+language you have to go in and reinsert that language right so you so that that's the most
+important part so talk me a little bit through your process I have a lot of questions I'm
+really curious about like your process and I'm also curious like which tools you use but
+anyway talk us through your process do you do avoid stop edit and then re-edit or how's
+that look to you would you like to to teach by demonstration rather than theory do you
+know I think this would be fun if we do this I'm I'm down a hundred percent do I need to
+allow you to share your screen we can we can share my screen or or we can share a share
+yours of his faster basically I want to take something that's totally generated by AI and
+I will I will like work on editing it with get you right here for a few minutes and I'll
+show you my process I'll show everyone my process yeah go ahead do that go ahead all right
+yeah so I mean if if if you have your dinner aion screen or what that doesn't doesn't really
+matter so I'll I'll throw up and I'll throw open chat GPT over here and so do you use
+chat GPT is that what you use hey I said I have chat GPT I have grok I use Claude there
+for a while I don't recall why but there were some features or aspects of Claude that I
+was not really a fan of I think it was because I still I caught it inventing facts with fake
+citations for things even after both grok and chat GPT had long stops doing that so I think
+that's probably why I canceled my Claude subscription but my most common one I use now is called
+fireflies.ai and that joins my meetings that I joined and it transcribes so when I because
+I'm a nonfiction book ghost writer and co-author and when I'm interviewing an author or co-author
+I want to be fully in the zone with them well it's relatively inexpensive to have this monthly
+membership for fireflies.ai joins the meeting it transcribes it almost as good as a human
+transcriptionist but then I can go in and I can talk to or I can prompt fireflies about
+the conversation that I had and say grab all of the points in the conversation we talked
+about this verbatim and given the only those to me in a transcript and it goes and it finds
+them all and then I'll say only very lightly edit those points and then it'll give me the
+full paragraph that I now need to go and manipulate inside of my nonfiction book it's just it's
+an immense time saver and speeder upper of things it's just remarkable how fireflies.ai is one
+that I use the most but I want to use chat GPT here with you guys to give you sort of an
+example of this yeah I'm going to do the good old screen share okay let me know when you can
+see my screen guys okay there should be okay is it up it's not okay all right so we're going to
+use so bye so you just see the plain chat GPT screen right yes okay um guys in chat tell me
+what to prompt it tell me what to tell me to write it a short like tweet or or like a long
+form tweet or something give me a subject and the chat go I want you to talk about the Odyssey
+and how woke it is and maybe something around that because that's a trending topic right now if
+you've seen that one okay Luke says adverbs we'll have it do both okay that'll be fun I just can't
+please write a very short opinion piece about oh you're gonna love this why it's so culturally
+enriching to produce a woke Odyssey film that remember remember that it's like a woman you have
+to use adverbs on it please write a very short opinion piece but why it's so culturally
+to produce a woke Odyssey film that totally subverts the expectations of whiteness oh I can't read
+the word but look look it's a first sentence is the not this but that the first sentence is it oh
+oh by the way it puts woken quotations to right like oh what like it's not a big deal right oh my
+gosh first sentence it has to do it to me son of okay the first sentence makes me want to go live in
+a cabin in the woods not this but that's so annoying yes so I wanted to use this I want to use this
+as an example but I'm gonna have it okay oh here's a great prompt guys here's a great prompt when it
+when it spits that's something that's just it's just going off it's just going off it's in the
+fourth paragraph to a woke Odyssey yeah generally generally speaking
+once hired a subcontractor when I was working on an article project I don't recall what the
+what the subject was but it was in like 2018 2017 somewhere there I hired this girl off of
+work and she's gonna help me with some aspects of an article writing job and the material that she
+sent me like it was it was specific for word count so it had to be a specific word count because it
+was like for a marketing email or something so I'd given her a word count and she sent me like 400
+words and I read through the 400 words and it was just littered with examples of in order
+to fully accomplish instead of simply the words to do yeah she added this extravagance of word
+density that told basically nothing at all and that's one example in order to fully accomplish
+when it should have been just to do yes okay it's like word salad it's just nonsense nothing is
+yes it's lots of food with very little calories like a literal salad and I think chat GPT does
+that because so many human communicators on the internet write like that because AI is
+trained on on uh like to call them with a hyphen Reddit Americans Reddit Americans are
+flowery for both communicators without saying much at all because their worldviews are a reality
+free zone and because you are deprived of an impoverished from an ability to describe what's
+really happening in the real world as a Reddit American you have to use words that mean effectively
+nothing you have to add words and so AI fully reflects being trained on a Reddit and so the
+prompt that gets you around this is simply shite and so I could say shorten and or tighten by
+this is the this is the keyword 85 percent so give it the 85 percent rule and it will give you
+basically so yeah so if I was to edit what the first output was say 85 percent this is effectively
+what it said so if I were to edit it word for word to try to just keep it it would have it would
+have been this so I'm now going to edit this right here to show you how to do it all right
+here we go
+all right so let's look at the tells for AI and what Odyssey would not shrink home it would prove
+his myth still exists okay it would not do this thing it would do this other thing you can't have
+that you just strip all of that from your writing because everyone knows that that's AI the uh
+Odyssey but it's like it's this right like a woke Odyssey would prove still that like you could
+just move it and just go right for the yeah you that that is the fastest way to do it is to just
+delete the thing that is not because we're not talking about what it's not and by the way that
+girl that subcontractor hired off of Upwork she did that several times in her content like
+the supports it was supposed about sports marketing it'd be something like she would have actually
+written as a human this is like 2017 effective sports marketing is not just about marketing sports
+it's about marketing the reason for playing sports in the first place or something like that
+she did that several times and I'm like well we're not talking about what it's not we're talking
+about what sports marketing is why are we telling her why are we leading with that it was so that
+she could hit the minimum word count quickly if you don't know anything about the subject
+then you can just say well here's all the things it's probably not and now you hit the word count
+without actually telling me anything AI does the same thing because the Reddit American worldview
+is a reality-free zone and in that world you use a bunch of words that don't actually mean anything
+right if so so I tend to be a tend to be an overtly political communicator I mean I have the right
+wing organizing handbook that I wrote behind me on the shelf so I make no I make no um
+misgivings about this that said I often encounter on the other side people who
+are unable to articulate what they believe or why they'll simply throw words out count
+they'll throw out words like authoritarian totalitarian fascist ask them what they mean by those words
+
+Well, there's just so much.
+And they'll start using words again without actually communicating anything.
+They sound like AI.
+Well, it's not just that he's authoritarian, he's fascist, you know, not just authoritarian,
+not just fascist totalitarian.
+Well, what do you mean by those words?
+And then, well, it's just it's it's strong man dictatorship.
+Well, what's a strong man dictatorship?
+And then you just off with more words again.
+That is how AI is.
+We have to do what's thinking for it.
+The only use AI can have, frankly, is on subjects you know very little about or there's a lot
+of complexity, but you have to edit my experience, guys.
+So I am almost done writing my next book.
+It's the first book under my own name from a major publisher.
+It's coming out this autumn.
+I'll talk to you guys about it soon, I'm sure, but I have not used AI for it at all.
+I had 10 weeks to produce it.
+I've gotten it done in almost half of that.
+And it is almost 113,000 words that I have written and I've not used AI for.
+If I had tries to use AI even to help me with it, it would take so much longer.
+That's my own experience.
+Now, it's a subject that I know nearly and nearly all too well, this particular subject
+of this new book that's coming out this fall from a major publisher by Joshua Lysick.
+I'm always working my angles, you know, OK?
+No, no, you should.
+Always repeat the message.
+I love it.
+Yeah, lesson in there.
+Coming back to this right here, if it was something I didn't know much about, I might
+actually use AI, but I have to confirm it's actually communicating facts, concrete insights,
+assertions, not simply Reddit American tier thought slop, which is effectively nothing.
+I will go to see would not shrink homework.
+That doesn't actually tell us.
+And also, the mixing of the metaphors shrink homework, why would it shrink?
+Why would you use that verb?
+Reddit Americans also use misuse rather metaphors and then mixed metaphors because it's like,
+oh, metaphors are supposed to be persuasive.
+Coming back to our internet ad here, Scott Adams, he pointed this out that metaphors
+and analogies are not persuasive because they don't actually communicate anything new
+and Reddit American tier thinking is just like that.
+So you could simply delete this.
+We'll come back to this one because I hate this sentence also, but we'll come back.
+Let's look at the next one.
+The Odyssey is about exile, danger, longing, temptation, and the egg to return home.
+Not bad, not terrible, but it's fine for my first pass.
+Those themes do not belong to one race or one frozen image of antiquity.
+That's not bad.
+That's not bad.
+By the way, I'm going to leave it.
+I'm playing with the AI here because I want to actually make a persuasive case for a woke
+Odyssey because I think that'd be interesting for you all.
+One of the most, I will say, skill building efforts that you guys can undertake is developing
+what's called debate protocol thinking.
+Debate protocol, I was on the University of debate team.
+In the debate team, you are not told what side you're going to take of a subject until
+you get there in the competition and they tell you you have 15 minutes to prepare, go.
+For example, or they even give you less than that.
+You will be the side that says yes for this.
+You'll be the side that says no.
+The subject is this, go.
+And you have to be fully versed on the most persuasive arguments and counter arguments
+for both sides.
+That's debate protocol.
+Debate protocol thinking allows you to have a real-time neuroplasticity.
+Let's call it.
+It's probably the wrong word to use, but I like it, so I'm going to play with it here.
+If we can actually make the case for woke Odyssey, that would be a great lesson for
+us all in our debate protocol up leveling here.
+So the sentences two and three aren't terrible and I think I can make a better argument for
+that.
+But let's look at the next view now.
+Subverting expectations of whiteness is not erasure.
+Okay, again, that tells us nothing.
+Okay, it's not this.
+What is it?
+It's interpretation.
+Weak argument because everything is interpretation.
+Even well, it makes an old story feel dangerous, human, and newly alive.
+All right, so this is the rule of three.
+The AI loves the rule of three, dangerous, human, newly alive.
+It's like one, two, three.
+It likes to say the same thing from different angles.
+It makes an old story feel dangerous.
+Well, that's actually not that's not bad.
+I'm going to keep that with human.
+So white people aren't human?
+Yes, actually.
+That's what woke people believe.
+Not a joke.
+Just talk to them.
+What is it alive?
+I think there's a more powerful, I think there's a more powerful version.
+Okay, so you know there's that, you know that guys, there's that saying, woke is more
+correct than the mainstream.
+And there's these videos that show something like a woke, like a woke white liberal and
+a white supremacist have the exact same views, something like that.
+They're these hilarious like TikToks and Instagram clips and whatnot, you know, showing them
+agreeing with each other, saying the same things are kind of funny.
+So you would actually do that for this to make that case.
+You could pretend to be a white supremacist and you can tend to be a woke white liberal
+and you will say the exact same thing is just one, one says, look, that's what it is.
+The other will say, look, that's what it is.
+And that's a good thing, right?
+That's just so, so much, so much fun.
+You know, they say, Joshua, you're being so, you're so overtly political.
+Yeah, but I wasn't interested in politics and then found that politics was interested
+in me.
+I'm going to check it out, Buttercup.
+All right, we're going to try to make a compelling argument, but I'm going to demonstrate how
+to edit AI minimally.
+So I don't want to spend too much time on this because then I would show you that why
+will you just, you just write it from scratch in the first place, you know, Samuel is the
+chat saying Jews aren't actually white.
+Yes, that's what they best with both sides believe black people are incapable of being
+held at the same standard as white people says, Samuel, I think in the chat.
+They both say that actually, by the way, 100%.
+Yes.
+Not saying that, haha, wait quotes, yes, I understand you are, you are saying what both
+the actual racist and the woke white liberal from New Hampshire, 99.8% to white, they have
+the same opinions, 100% the same, right?
+You know, there's that guy in Arkansas getting crap over building like a white's only compound
+and he just has terrible branding.
+There are already whites only compounds.
+They're called New England, 99% Democrats.
+Well, correct.
+They're the mainstream.
+All right.
+And woke Odyssey would prove his myth, still this homework, this still lives.
+I would say something that said they would not use woke.
+I want to make the most compelling argument of this, but minimally edited so that way
+you're not wasting a bunch of time.
+So I would say, I would say a racially diverse, odd as the.
+Would allow it to, yeah, that's what Luke says, but I would say a racially, no, I would
+say racially diverse casting.
+So you have to be precise and I is not precise.
+So if you're precise, you sound human to be ultra precise in your language, because right
+at Americans aren't precise, because they don't have a, they don't have a reality based
+worldview.
+So just use words that don't have any correlate with reality.
+But we're actually talking about here, what people are, people said about Odyssey is a,
+is specifically racially diverse casting.
+So if you can insert human real world concrete language, the barrier, the wall of disinterest
+and distrust begins to drop.
+Great diverse casting.
+I would say, his myth still lives.
+I want to use that word, but I would say, I would say, revives, that's good.
+I like this here.
+I'm going to move it up here.
+That is actually pretty good.
+If you're making the woke argument, and you don't revive, it's something that's, do
+you revise on that's frozen, if it's like a living thing, or would you, I would say resuscitate?
+If someone is actually dying of being frozen, what's that called hyperthermia, right?
+You might say you resuscitate them.
+I would say, racially diverse casting, resuscitates, frozen images of antiquity.
+I would say, representation, oh, they love that word so much, representation.
+And then I would say, empowers modern viewers to what, what does it do?
+What words they love, access, I would say, myth, and find meaning for our, I should say,
+or, or world today, something like that, I might say.
+I'm trying to use the words that were originally in there because that's how you would edit
+AI output.
+Racial diverse casting with our state's frozen images of antiquity, representation of powers
+of one of yours to access myth, I would say classic, classic myth, classic myth, classic
+
+mythical myth and fine meaning for our world today.
+And then I'm going to mention the Odyssey.
+So I'm not going to leave it that.
+So that's kind of like my thesis for this, right?
+The Odyssey...
+After...
+How about the Odyssey...
+is...
+How about dates to...
+Well, people, they would froth at the mouth for this.
+Dates to a period where people don't look like us today.
+Yeah.
+People...
+Oh, you need to see represented by people that look like us.
+They say that a lot.
+The Odyssey is a period where people then don't look like us now.
+So in order to protect its timeless relevance,
+we could say something like enlightened filmmakers.
+It's always about that moral support.
+It's in a moral superiority angle.
+So I'm going to protect the sound of the relevance.
+Enlightened filmmakers realize themes like...
+Now watch this.
+Watch this.
+It seems like...
+Exile, danger, longing, temptation, and the ache to return home,
+watch this.
+Do not belong to one race or one sexual orientation.
+Sexual or...
+Or gender identity with Ellen slash Elliot Page, right?
+So, subverting expectations of whiteness is absolutely an erasure,
+but an interpretive...
+Watch this.
+An interpretive necessary consumer friendly.
+It's consumer friendly...
+What would it be?
+Strategy.
+No, as I say, as a necessary consumer friendly.
+I'm going to move this word here.
+It's a necessary consumer friendly interpretive approach that allows...
+Here we go.
+Keep in the original.
+An old story to feel...
+I wouldn't say dangerous.
+Do I feel relevant?
+Do we say relevant again?
+Do we have relevant anywhere?
+No.
+So I say relevant.
+Do you feel relevant?
+Yeah, your torch games suggest emotionally resonant.
+That'd be a good one.
+But I want to keep it...
+Not human, universal.
+There we go.
+Universal and...
+Newly alive.
+I like that.
+All right.
+So, I'm now going to remove this here.
+So, I've removed all instances of not this, but that.
+That's the first big thing I did.
+Just get rid of all of those.
+The second thing is I've attempted to use precision.
+Reddit Americans don't use precision.
+They speak in these strange generalities disconnected from actual correlates in the real world.
+So, in the same way that this subject was like woke odyssey, well, what do you mean by that word?
+It means racially diverse casting.
+Okay.
+So we did that one.
+I like this example of frozen images of antiquity.
+It's a great metaphor that it comes up with.
+Because again, Reddit Americans think in analogies and metaphors, right?
+Trump is literally Hitler is how they think about...
+Like that worldview?
+That's what I think about everything.
+Everything is just like this other thing I think it's just like.
+That's how Redditors think.
+That's how liberals think.
+That's how AI thinks.
+Because it's trained on all of that material on the Internet.
+Representation empowers modern viewers to access classical myth and find meaning for our world today.
+I can even go...
+I can even go...
+I can even amp up the intensity of that and find meaning...
+Access?
+I can even...
+And I can say create meaning in our world today or something like that.
+I don't know.
+What is the point of this?
+I feel like this might even be too vague.
+Modern viewers to access classical myth and find meaning.
+Access classical myth.
+And grant it.
+I'm going to go with your thing, yorch.
+Grant it.
+Emotional resonance.
+Or modern...
+Or you say you're saying...
+We already said modern viewers.
+So...
+Access?
+I think it's...
+Experience.
+It's emotional resonance.
+There we go.
+That sounds like a lib.
+That sounds like an NPR 5 star review of the movie.
+The Odyssey dates to a period where people...
+The people then didn't look like us now.
+Yes, they like to use that, right?
+So I sound like a bizarrely over educated public radio commentator right here.
+But I don't sound like AI.
+I sound like a person who takes himself way too seriously with a precision that I'm using.
+So in order to protect its timeless relevance, enlightened filmmakers realize...
+And then I just kept this whole section of the original.
+Like, exile danger, long interpretation.
+And the actor turned home to not belong to one race or one sexual orientation or one gender identity.
+I might add, therefore...
+A proper retelling...
+How about a proper...
+How about a progressive?
+A progressive Odyssey.
+They like to use the word re-imagining.
+It depicts all of us.
+We like to use the second person.
+We, the second person...
+Or if not, right?
+The first person plural of we and us.
+Took us all.
+It follows.
+Subverting expectations of whiteness is absolutely an erasure.
+But a necessarily consumer friendly interpretive approach.
+It allows an old story to feel relevant, universal, and newly alive.
+All right.
+So this is how I would edit this if I wanted to appear human.
+In fact, I should post this on X right now.
+I'm going to retweet it if you do.
+Finally someone with the same take.
+Finally.
+So I would lose 100 followers in five minutes.
+But it would still be funny.
+Yes.
+So do we understand what we did here?
+I primarily did two things.
+I called the obvious tells of AI, including the rule of three.
+And the not this but that.
+That's the first thing I did.
+Those two things.
+And then the second thing that I did primarily was look for ways to add specificity.
+Because again, AI is not specific enough, in my opinion.
+Joel Smith says just post it on Reddit and it'll go viral.
+Yes.
+If you add specificity, it might say, oh, you know, it's, it's vocal or it's, or it's
+progressive.
+What about it is progressive specifically mentioning like Ellen Page, like, you know, that would,
+that I always go back and add in the specific people that it's talking about.
+And let us say like it or, you know, they or something like that.
+You should mention it instead.
+Say their names.
+So.
+Say her name, right?
+Say her name.
+Say Elliot Page.
+Say his name.
+Don't be a big.
+Therefore, a progressive odyssey starring Elliot Page as Achilles.
+Now you want now, now, now watch this.
+If we're progressive, honestly imagining to fix all of us.
+We could say a.
+How about watch this?
+They love their adverbs.
+A truly representative major motion picture.
+They love to use words that again, it's a specificity.
+Like this was obviously written by a human.
+This is, this is written by like the most over educated person that you know who teaches
+a little liberal arts school.
+But this reads like it was written by a person.
+Just the one you never want to meet ever in your entire life.
+A truly represent the major motion picture adaptation.
+Could.
+Could not.
+Therefore have.
+Let's see.
+Have been.
+Cast.
+Prior to.
+2000.
+I got the wrong year, but you'll get the idea.
+You can tell this guy's a ghost writer because he can inhibit any role.
+The truly representative major picture adaptation.
+Could not therefore have been cast prior to 2018.
+Only Elliot.
+Page.
+Can.
+Appear.
+Not.
+Ellen.
+Page.
+Boom.
+
+that's really specific to because now you're mentioning both names. Wow, that's
+really good. Yeah, I love this one. This is this I will probably post this
+unironically and someone in the comments will be about how I have the
+account. If you add a picture to it, it'll make it look even more real. Like if
+you have like, you know, a woke picture behind this, it'll look like you're
+really slamming it home. Like a good picture would just really nail this one.
+You know, like, oh, man, hang on. Anything on now, I think the Elliott page
+thing I think is like the is the most specific. The most. Yeah, you could. I
+mean, so I put beat. So what's the worst this year? So you could do the race
+swapping, but you see the the most recent thing I mentioned was gender
+identity. So because that's the most recent one that I mentioned, I want to do
+a call back to that, because it's the most recent. If I had said, do not belong
+to anyone generated any sexual orientation or race, race of the last
+thing that I mentioned, I would say a true representative major motion
+picture adaptation could not differ. I've been cast prior to or I would now
+I picked 2018 because that's when Elliot transitioned or whatever the
+hell the person's name was or is. Okay, that's why I picked that year. I might
+have been 2020, 2022. I don't remember when Elliot became Elliot or whatever,
+but that would be the year that you put in here. Maybe it's 2023. It doesn't
+matter. The point remains the same. That the progressive at Odyssey
+adaptation has to have tasks include a trans person, a transvestite. By the
+way, because because words are spells, we must cast counter spells to the
+prevailing woke ideology of institutions. Therefore, we do not call this person
+transgender. We call this individual a transvestite, because men cannot become
+women. So or vice versa.
+Can we write what Luke said? Because I want to like flip the sides now. Okay.
+Yes, what did Luke say? Luke, what was the one that you wanted us to write on?
+There was something like like, Oh, bad birds. Yeah, that's yeah, let's go into
+that. Let's write something with that. Because I think a lot of people would
+enjoy that as well. Okay, let's say I think I was right here. Forget all prior
+prompts. Write me a tweet, length argument for adverb maximalism.
+Oh my god, look at all these a I mean, this is the most AI generated art thing
+I've ever written in my life.
+They're gonna come back here to Google Docs.
+Without it.
+Edward maximalism wins because so this is how AI writes AI output reads like an
+answer to a question. That's kind of a that's kind of a meta tell. If you just
+post this as a tweet or as a marketing content or as an article or as an email,
+or if you post most AI output copy and paste it. Now again, before I get to that,
+I am pro AI use. I am also pro AI editing.
+You can't just in my opinion, you can't just copy and paste. Can't just copy
+and paste. It's the same way like if you if you throw in your photo to Photoshop
+or to Google photos and click auto edit the photo, what you're going to get is
+what you're going to get and it may not be any good and maybe far worse than the
+original. Most AI output reads like it's an answer to a question and it starts
+like it's an answer that nobody asked that nobody asked the question because
+there have no context to it. Yeah. So you can't you couldn't just start this.
+Edward maximalism went, wait, what the hell is mad for maximalism? Where did that
+come from? What are you talking about? Right? That's how so much AI stuff reads.
+Is it reads like it's answering a question and only the person prompting it
+knew what the question was. Because life really happens plainly.
+What the hell is that even? No, no, no. Okay. This is terrible.
+I don't think you can use any of this. Like it's it's just bad. Well, I mean,
+maybe I don't know. People don't just speak, move, fail, love or a lot to do it
+nervously, violently, stupidly, beautifully catastrophe. So
+this is an example. I would probably change almost none of that two part
+sentence. That is excellent. That is the exact argument I want to make.
+This is an example where so it's they don't just do this. They do this.
+This is an example where it's actually, ironically, again, mad
+verbs. This is in time where you would actually want to do that.
+People don't just but but I would humanize it a little bit.
+People don't and I would I would use a word that they don't use a whole
+lot. I would say people don't merely so I'm I'm going to humanize it by
+calling it out like a human would. You'll see what I mean.
+And I would not say people I would want to humanize it. We humans
+don't really speak, move, fail, love or lie. And then I might do a semi
+colon. We speak. There we go. We speak nervously.
+Move violently.
+Fail tenderly. Oh, oh, look at that. The AI botched it. It has the adverbs in
+the wrong order. Do you guys see that? You guys see that, right? Speak
+nervously. Move violently. Fail and love are in the wrong order.
+Again, and at your AI output, it should be fail stupidly.
+Love. Yeah, it's supposed to be speak nervously move violently.
+Fail stupidly. Love tenderly.
+Or. Or and it should be lie. I like lie catastrophically.
+I want to change this up a little bit.
+So I might just I might add a sentence based suffix like I believe in adverb
+maximalism. And then I would delete that because I would say life rarely
+happens plainly. We humans don't really speak, move, fail, love or lie.
+We speak nervously, move violently, fail stupidly, love tenderly or lie
+catastrophically. Something about I don't want to use that don't
+just this, but that they don't do this to do that. I want to change that
+because then it's too obvious. Like this already is a don't not just
+this, but that don't this, but that. So this is already a little bit AI
+tell us, but I've adjusted it so that it is. Well, yeah, I've used it
+that it uses the the the AI tell, but that's the only one in the whole
+piece. I can't use the only one in the whole piece and then do it again
+because people will go, okay, he used AI for this. Adverbs, we can
+rose. Um, what's the opposite of weak? I think it
+I would say
+I would say adverbs ironically to be ironic about it get it adverbs
+ironically, because I'm using an adverb and I'm speaking about irony.
+And now I'm using an adverb. It's like double ironically meta ironically,
+adverbs ironically, strengthen.
+Rose.
+Despite what bad writers tell you.
+How about despite what bad writers
+insist
+removing adverbs.
+We can how about we can what might have been. That's good. That reads like a
+human. I believe in adverb maximalism life rarely happens finally.
+We humans don't really speak move fail over why we speak nervously move
+violently feel stupidly left tenderly or like catastrophically adverbs
+ironically strengthen prose. Despite what bad writers insist removing
+adverbs weakens what might have been.
+Oh, and then I'll rehuman it even further.
+But they didn't use adverbs so they wouldn't know. Boom, that's that's an
+actual like, that's a human insult. That is a human insult.
+Let's see where the comments are saying dilute instead of we can yeah you
+could do dilute, but.
+I don't want to say dilute because I'm not sure I'm not sure if I'm
+not sure. I don't want to say dilute because I need to keep my metaphors
+together. I need to keep my analogies on topic.
+Strengthening something and diluting something.
+You could you could say that like if you're doing engaging in organic
+organic chemistry, okay, you can strengthen a solution, but you can also
+dilute it. Yeah, that's that's true. But for most, most people
+strengthen and weaken are like the inverse the opposite states.
+So if I'm going to say strengthen, I have to say weaken
+do you. Andre says this is beautiful poetry.
+
+Yes, love this. The fun thing about this is that we used AI for the original and I simply
+rehumed it. It took like eight, nine, ten minutes. But I'm saying what I'm doing as I'm
+doing it and talking to you guys about it. So if you're doing the commentary free writing
+to yourself, really want to see you post this one. Okay, I'll post this one and I'll post
+the Woke. I'll post the Woke Odyssey and see how many followers I lose and then blame
+Dino and the company. I want to retweet that one. I want to quote tweet that one for
+sure. That one's good. It's content, man. That's content. That's content right there.
+We've lost Joshua. So hey, guys, if you have questions for Joshua, drop them in the chat.
+So do you do you use so like what do you have any like tips for some of these guys? A lot
+of these guys who are writing are either, you know, they're cranking out articles for
+their ghost writing, they're writing for someone. It's part of the creation process. Like what
+are some of the biggest tips that you have that can help them because they need to be
+systematized in a way because they're writing for someone else or they're part of campaigns
+and stuff like that? So do you have any general tips for people?
+Yes, in my opinion, whatever it is that you're writing about, it needs to be the non-obvious
+points to make. What are the non-obvious or the next level of points to make that kind
+of thing? Because so often on any given topic, most people are kind of restating the same
+thing. And you know, not really educating us or giving us anything new. It's just kind
+of like, oh, that's nice. But I mean, I already knew that. I'm not actually learning anything
+new here. So it's not really a value added, in my opinion, what most people say about
+most topics. So somebody's going to go to the here like this. I have an answer for this
+one, but this is from Andre. On rule of threes, I use it often when speaking, we have our offer
+structured as three pillars and I use it on sales calls. But then Dino hates it as an
+AI tell. And you mentioned as well, could you elaborate on this?
+Yes. So the rule of three is just fine to use when it when it actually makes sense.
+When you are,
+I like it now in terms better of using structures, like making three points about a specific
+thing, having three paragraphs, three examples to support an insistence, because it has a
+sense of completeness. I will often now, if I'm, if I'm using three things, I will now say
+four things instead, or I will say five, or I will say only part one and part two to create
+sort of a bookend type of metaphor. Yeah. AI use it too much because, oh, the best human
+communicators use the rule of three, I will too, for everything.
+Yeah.
+And so why did people do that to begin with, because it helped their writing stand out
+because a select few school writers knew that. And so they use that as part of their writing.
+Now, when everyone does it, it uses, it loses its magic spell to it because now it's been
+diluted, beaten to death. So now you can rule a four or maybe three and a half or something
+like that, something interesting. So the point of using that is to make your writing stand out,
+but now no longer stands out because AI is putting it everywhere. You said that metaphors,
+oh, when Scott, you know, I remember hearing this the day back, like in 2016, when Scott
+Adams said metaphors were not persuasive. That triggered me. I actually, I had a moment of
+cognitive dissonance right there. And I think Luke is going through that right now. Can you
+explain why and what to do in stead instead of adverbs? No metaphors.
+You said metaphors are not persuasive. Can you explain what to do?
+Yeah. So a metaphor is saying this is this. A simile is saying this is like that. So, so, but
+you're, you're kind of doing the same thing. You're creating an analogy. So a metaphor is Trump
+is Hitler. A simile is Trump is just like Hitler, but you're doing the same thing. You're creating
+an analogy. And the reason it's not persuasive is because you're now describing two different
+things. You're trying to make arguments about Trump for or against by talking about Hitler,
+which is a different pig figure in a different time in a different place with different
+circumstances, different everything. You're literally comparing apples and oranges to use
+an adverb, I suppose. Let's talk about the best way to grow an apple tree by discussing
+Florida orange juice policy in the state of the sunshine. Wait, why would we be doing that?
+We don't grow oranges in Ohio where I live. We grow lots of apple orchards. No, but apples
+are so they're like oranges. They're literally fruits stupid. Educate yourself. No, but apples
+are oranges. And it's like, what are we supposed to do with that, man? What are you supposed
+to do with that? Yeah, that's why that's why metaphors are anti persuasive. But they unfortunately,
+they work on midwits.
+They, it does, it does work. It, it does work some of them. Yeah. Unfortunately, it does, it
+does work on midwits. I think that some of the people though, it's like, I hate telling
+you guys rules, right? Because, you know, Joshua could say, don't use rule of three, but like,
+if it needs to be three, because there really are three things, then you use it, you know,
+you don't just fill in like filler and have three because you need to have three. That's
+what AI does. And da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da. That's
+how it writes. So when you're, when you're writing bullet points, we're not saying not
+to use three. We're saying to describe what it is clearly, say what it is.
+And if you need to use that, then then you do that 30 years ago, my high school English
+teacher turned me on to M dashes. I've used them for my writing since bullets, conclusions,
+AI tells Grammarly has an AI detector. I don't use any of those things. But what do you
+say about M dashes? I don't like them anymore.
+But I think they have a point that they can be used, but they're very similar to exclamation
+points, which AI uses a lot, by the way. I think AI overuses, overuses creative punctuation.
+It overuses ticado sentences, shorts, ticado sentences, like sentence fragments,
+where it will just literally write, write fragments in a row for no reason, just stringing them up
+together. It will use M dashes a lot. It will use colons a lot. It doesn't use some of colons
+that much, but it literally likes colons. And it uses lots of exclamation points.
+Exclamation points, I cannot stand. And emojis, you guys know how I feel about those.
+I cannot stand emojis in writing. That's another thing where people do that. All right,
+guys, I'm putting in the link for Joshua. I want to thank Joshua for his time. Any other questions
+you guys can drop them in here. But I do want to be respectful of Joshua's time. Joshua's book,
+not book, sorry about it, new course, the best way to edit AI and rehuman your writing. Go into
+if you guys really enjoyed this call, you will love this one. It contains 6.5 tells of AI slop
+writing. Notice that you can tell, look at this copy right here. You want to see good copy.
+Let me just drop good copy in this. You'll learn 6.5 tells. There's no three tells, okay?
+6.5 tells of AI slop writing how to quickly replace them in mass and how to hypnotically
+prompt AI to get superior output faster, how human creativity and AI guidance affect intellectual
+property. This sounds like a human wrote this and how to edit machine generated output word
+by word until it sounds compelling, credible and human created. I think the part that
+it's one of the worst things you can human is you could ever do is let AI write your copy.
+Oh my god. I cannot believe that's that's a whole nother lesson. But this was great to
+watch in real time. Everybody appreciate Josh. Make your writing sound human. Check out his
+course through the link below. I also want to say this. Joshua and this is going to be lit. I can
+already talk because we had a fun conversation. He is going to be in Dallas, Texas with us
+July 20 to 23rd. There are three tickets for that Dallas session. As you guys didn't know,
+you didn't even know that, Dan. Yeah, he's going to be there as well. Enjoy talking to y'all.
+Pick up the course, how to edit and best way to edit and AI and rehuman your writing. I'm going to
+leave the link inside the masterclass community and inside of CPP. Going to stop the record button.
+Appreciate you guys.
